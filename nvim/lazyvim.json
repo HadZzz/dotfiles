@@ -1,0 +1,18 @@
+{
+  "extras": [
+    "lazyvim.plugins.extras.coding.codeium",
+    "lazyvim.plugins.extras.coding.tabnine",
+    "lazyvim.plugins.extras.test.core",
+    "lazyvim.plugins.extras.ui.alpha",
+    "lazyvim.plugins.extras.ui.mini-animate",
+    "lazyvim.plugins.extras.ui.mini-indentscope",
+    "lazyvim.plugins.extras.util.gitui",
+    "lazyvim.plugins.extras.util.project",
+    "lazyvim.plugins.extras.vscode"
+  ],
+  "news": {
+    "NEWS.md": "4828",
+    "doc/news.txt": "24447"
+  },
+  "version": 3
+}
